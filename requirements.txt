@@ -1,0 +1,8 @@
+flask
+flask-cors
+openai
+gunicorn
+flask
+flask-cors
+openai
+gunicorn
